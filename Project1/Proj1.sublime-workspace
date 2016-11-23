@@ -1,0 +1,361 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sum",
+				"sumY"
+			],
+			[
+				"phan",
+				"phantomJsCookiesToNetScapeString"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pas",
+				"password_field"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"user",
+				"username_field"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/MilanPatel/Documents/Python Work/Project1/Proj1.py",
+		"/Users/MilanPatel/Documents/Python Work/Project6/Proj6.py",
+		"/Users/MilanPatel/Documents/Python Work/Project2/Proj2.py",
+		"/Users/MilanPatel/Documents/Python Work/Project3/Proj3.py",
+		"/Users/MilanPatel/Documents/Python Work/Project4/Proj4.py",
+		"/Users/MilanPatel/Documents/Python Work/Project5/Proj5.py",
+		"/Users/MilanPatel/Documents/Python Work/Proj1.py",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/testLocal.bash",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Khaleesi Wilde-Names.txt",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Khaleesi Wilde.txt",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/WLT-Names",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/WLT",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/WGP-Names.txt",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/WGP.txt",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/testHDD.bash",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/WGP-Names",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/WGP",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Faye Reagan",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Faye Reagan-Names",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Kathrynn St-Croixx",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Kathrynn St-Croixx-Names",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Kali Rose-Names",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Kali Rose",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Mia Malkova.txt",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Taylor Vixen-Names.txt",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Taylor Vixen.txt",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Brett Rossi-Names.txt",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Brett Rossi.txt",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Alaina Fox-Names",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Alaina Fox",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Alaina Fox.txt",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Alaina Fox-Names.txt",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Khaleesi Wilde",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Khaleesi Wilde-Names",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Jenna Sativa",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Jenna Sativa-Names",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Jenna Justice",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Jenna Justice-Names",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Kaley Kade",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Kaley Kade-Names",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/August Ames",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/August Ames-Names",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Stacy Carr",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Stacy Carr-Names",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Emily Addison",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Emily Addison-Names",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Taylor Vixen",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Taylor Vixen-Names",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Mia Malkova",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Mia Malkova-Names",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Brett Rossi",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Brett Rossi-Names",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Spencer Scott-Names",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Spencer Scott",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Ryan Ryans",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Ryan Ryans-Names",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Niki Skyler",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Niki Skyler-Names",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Brea Bennett-Names",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Brea Bennett",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Adrienne Manning",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Adrienne Manning-Names",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Niki Lee Young",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Niki Lee Young.txt",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Niki Lee Young-Names.txt",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Destiny Dixon-Names",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Destiny Dixon.txt",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Destiny Dixon-Names.txt",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Nicole Aniston.txt",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Nicole Aniston-Names.txt",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Madison Ivy-Names.txt",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Madison Ivy.txt",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Karlie Montana-Names.txt",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Karlie Montana.txt",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Aubrey Star",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Stefanie Joy.txt",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Stefanie Joy-Names.txt",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Carli Banks.txt",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Carli Banks-Names.txt",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Eufrat.txt",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Eufrat-Names.txt",
+		"/Users/MilanPatel/Documents/College/Senior Year/BIOL212/Projects/Heat Diffusion/HeatDiffusion3.py",
+		"/Users/MilanPatel/Documents/College/Senior Year/BIOL212/Projects/Bacterial Growth/BacterialGrowthFinal.py",
+		"/Users/MilanPatel/Documents/College/Senior Year/BIOL212/Projects/DLA/DLA4.py",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Dani Daniels.txt",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Dani Daniels-Names.txt",
+		"/Users/MilanPatel/Desktop/test.bash",
+		"/Users/MilanPatel/Desktop/diffusion.py",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Niki Lee Young-Names",
+		"/Users/MilanPatel/Desktop/HeatDiffusion.py",
+		"/Users/MilanPatel/Desktop/forestfire.py",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Destiny Dixon",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Elle Alexandra",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Elle Alexandra-Names",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Madison Ivy",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Madison Ivy-Names",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Karlie Montana-Names",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Karlie Montana",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Nicole Aniston",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Nicole Aniston-Names",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Aubrey Star-Names",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Stefanie Joy",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Stefanie Joy-Names",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Carli Banks",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Carli Banks-Names",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Eufrat",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Eufrat-Names",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Capri Anderson",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Capri Anderson-Names",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Dani Daniels",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Dani Daniels-Names",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Abigail Mac",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Need to Do/Abigail Mac-Names",
+		"/Users/MilanPatel/Documents/College/Senior Year/BIOL212/Projects/DLA/DLA5.py",
+		"/Users/MilanPatel/Documents/College/Senior Year/BIOL212/Projects/DLA/DLA3.py",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Abigail Mac-Names",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Abigail Mac",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/WLT",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/WLT-Names",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Ariana Marie-Names",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Ariana Marie",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Riley Reid-Names",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Riley Reid",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Aspen Rae-Names",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Aspen Rae",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Eva Lovia-Names",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Eva Lovia",
+		"/Users/MilanPatel/Documents/Stuff/.Bash/Sources/Peeps/Tori Black-Names"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			")\n",
+			"rnaString",
+			"Khaleesi Wilde",
+			"Kali Rose",
+			"Khaleesi Wilde",
+			"Kali Rose",
+			"Staci Carr",
+			"WGP",
+			"Kathrynn St-Croixx",
+			"Faye Reagan",
+			"Jenna Sativa",
+			"Taylor Vixen",
+			"Emily Addison",
+			"Brett Rossi",
+			"Brea Bennett",
+			"August Ames",
+			"Alaina Fox",
+			"Adrienne Manning",
+			"Niki Lee Young",
+			"Masseuse",
+			"Elle Alexandra",
+			"Destiny Dixon",
+			"Nicole Aniston",
+			"Madison Ivy",
+			"Karlie Montana",
+			"Aidra Fox",
+			"Aubrey Star",
+			"Stefanie Joy",
+			"Carli Banks",
+			"Eufrat",
+			"Capri Anderson",
+			"Ariana Marie",
+			"Dani Daniels",
+			"Abigail Mac",
+			"Riley Reid",
+			"Caprice",
+			"Celeste",
+			"session",
+			"vklei766",
+			"func",
+			"curve_fit"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Proj1.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Python Work/Proj1.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
